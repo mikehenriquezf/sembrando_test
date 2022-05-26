@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/additem": "pages/additem.js",
+  "/": "pages/index.js",
+  "/api/anadir": "pages/api/anadir.js",
+  "/api/carro/[id]": "pages/api/carro/[id].js"
+}
